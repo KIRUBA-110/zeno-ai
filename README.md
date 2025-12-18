@@ -136,4 +136,4 @@ cd frontend && npm run lint
 
 ---
 
-Built with 💜 by AI
+Built with 💜 by Kirubagaran A
